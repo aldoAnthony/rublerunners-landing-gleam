@@ -49,8 +49,8 @@ const Hero = () => {
               <div className="absolute inset-0 glass rounded-3xl transform rotate-3 scale-90"></div>
               <div className="relative rounded-3xl overflow-hidden border border-white/20 z-10">
                 <img 
-                  src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=3087&auto=format&fit=crop" 
-                  alt="Professional rubble removal" 
+                  src="https://images.unsplash.com/photo-1576280314108-5ecd50a6a9c2?q=80&w=1935&auto=format&fit=crop"
+                  alt="Pickup truck loaded with rubble in front of a house" 
                   className="w-full h-full object-cover"
                 />
               </div>
